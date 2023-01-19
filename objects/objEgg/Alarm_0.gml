@@ -1,0 +1,1 @@
+instance_create_layer(x-150,y-100,"control",objHawk);

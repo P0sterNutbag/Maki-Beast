@@ -1,0 +1,1 @@
+canhurtPlayer = true;

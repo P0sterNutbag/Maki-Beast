@@ -1,0 +1,24 @@
+// Dont change
+changeHp = false;
+canhurt = true;
+hsp=0;vsp=0;
+attackTimer = 0;
+state = states.walk;
+canKnockback = true;
+//hpw = hp;
+canshoot = true;
+flash = false;
+//maxSpd = spd;
+bounceDir = 0;
+offensiveThrow = false;
+invincible = false;
+knockBackSpdMax = 20;
+dir = 0;
+// Default Shaodw
+shadowSprite = sprShadow;
+starImageIndex = 0;
+escapeDmg = 5;
+// Throw info
+throwSpd = 170;
+throwDmg = 2.5;
+fric = 8;

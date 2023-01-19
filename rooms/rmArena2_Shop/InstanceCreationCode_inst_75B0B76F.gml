@@ -1,0 +1,1 @@
+targetPrice = choose(2,3);

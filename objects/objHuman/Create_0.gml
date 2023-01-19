@@ -1,0 +1,2 @@
+walkSprite = sprHumanWalk;
+idleSprite = sprHuman;

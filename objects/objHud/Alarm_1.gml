@@ -1,0 +1,1 @@
+killCount = 0;
